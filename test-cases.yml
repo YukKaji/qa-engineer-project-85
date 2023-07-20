@@ -204,6 +204,8 @@
     - Level : elementary
     - Visibility : Public
     - Tags : games
+    - Examples in markdown : 1 == solution(1,1)
+    - Description en : Description
   steps:
     - Нажать на свой профиль
     - Нажать "Tasks"
