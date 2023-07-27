@@ -4,7 +4,7 @@
   status: pass
 
 - summary: |
-    Создание игры с друзьями
+    Успешное создание приглашения при игре с друзьями
   status: pass
 
 - summary: |
@@ -17,14 +17,6 @@
 
 - summary: |
     Успешная регистрация на сайте
-  status: pass
-
-- summary: |
-    Успешная регистрация на сайте с помощью GitHub
-  status: pass
-
-- summary: |
-    Успешная регистрация на сайте с помощью Discord
   status: pass
 
 - summary: |
