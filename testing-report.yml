@@ -1,21 +1,5 @@
 ---
 - summary: |
-    Создание игры со случайными игроками
-  status: pass
-
-- summary: |
-    Успешное создание приглашения при игре с друзьями
-  status: pass
-
-- summary: |
-    Создание игры с ботами
-  status: pass
-
-- summary: |
-    Выбор языка программирования в игре
-  status: pass
-
-- summary: |
     Успешная регистрация на сайте
   status: pass
 
@@ -29,6 +13,22 @@
 
 - summary: |
     Успешная авторизация на сайте с помощью Discord
+  status: pass
+
+- summary: |
+    Создание игры со случайными игроками
+  status: pass
+
+- summary: |
+    Создание игры с ботами
+  status: pass
+
+- summary: |
+    Успешное создание приглашения при игре с друзьями
+  status: pass
+
+- summary: |
+    Выбор языка программирования в игре
   status: pass
 
 - summary: |
